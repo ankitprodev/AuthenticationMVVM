@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="error_name">Please enter name</string>
+    <string name="error_email">Please enter email</string>
+    <string name="error_pwd">Please enter password</string>
+    <string name="pwd">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="create_account_register">Create account? Register</string>
+    <string name="create_account_login">Do you want to login?</string>
+    <!--    <string name="default_web_client_id">718901248829-t9thui215lae2i6n6lt1aae2b8t6ekcb.apps.googleusercontent.com</string>-->
+</resources>
